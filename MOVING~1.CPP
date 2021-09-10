@@ -9,7 +9,7 @@ int x,i=0;
 x=getmaxx()/2;
 //road
 while(i<x){
-setcolor(YELLOW);
+setcolor(BLUE);
 line(50+i,370,90+i,370);
 arc(110+i,370,180,0,20);
 line(130+i,370,220+i,370);
